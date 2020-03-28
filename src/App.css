@@ -1,0 +1,66 @@
+.App {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+	background-color: darkslategray;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 50px;
+	line-height: 50px;
+	right: 0px;
+	
+	color: white;
+	overflow: hidden;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+#main {
+	line-height: 30px;
+	background-color: lightgray;
+	position: absolute;
+	top: 50px;
+	bottom: 25px;
+	left: 0px;
+	right: 0px;
+	overflow: hidden;
+}
+
+#left-panel {
+	background-color: black;
+	position: absolute;
+	left: 0px;
+	right: 50%;
+	top: 0px;
+	height: 100%
+}
+
+#right-panel {
+	position: absolute;
+	left: 50%;
+	right: 0px;
+}
+
+#status-bar {
+	background-color:green;
+	text-align: left;
+	color: white;
+	position: absolute;
+	height: 25px;
+	line-height:25px;
+	bottom: 0px;
+	left: 0px;
+	padding-left: 10px;
+	width: 100%;
+	margin: auto;
+}
+
+.status-error {
+	background-color: red
+}
+.status-ok {
+	background-color: green
+}
