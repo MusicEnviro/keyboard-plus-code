@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f89094b8be61d56965a6028ba2b1be27",
+    "revision": "4659caa9ae3960341b00ce0cbd5a7f39",
     "url": "/keyboard-plus-code/index.html"
   },
   {
-    "revision": "4ce1488ff14c9a5c7041",
+    "revision": "7293cf3c4dd0fb3ff0cb",
     "url": "/keyboard-plus-code/static/css/main.be255ade.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/keyboard-plus-code/static/js/2.4386ac7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ce1488ff14c9a5c7041",
-    "url": "/keyboard-plus-code/static/js/main.a761c217.chunk.js"
+    "revision": "7293cf3c4dd0fb3ff0cb",
+    "url": "/keyboard-plus-code/static/js/main.4777c6ec.chunk.js"
   },
   {
     "revision": "2a95487b42f64eb5957f",
