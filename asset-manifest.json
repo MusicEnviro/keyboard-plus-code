@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keyboard-plus-code/static/css/main.be255ade.chunk.css",
+    "main.js": "/keyboard-plus-code/static/js/main.a761c217.chunk.js",
+    "main.js.map": "/keyboard-plus-code/static/js/main.a761c217.chunk.js.map",
+    "runtime-main.js": "/keyboard-plus-code/static/js/runtime-main.1fcedac4.js",
+    "runtime-main.js.map": "/keyboard-plus-code/static/js/runtime-main.1fcedac4.js.map",
+    "static/js/2.4386ac7b.chunk.js": "/keyboard-plus-code/static/js/2.4386ac7b.chunk.js",
+    "static/js/2.4386ac7b.chunk.js.map": "/keyboard-plus-code/static/js/2.4386ac7b.chunk.js.map",
+    "index.html": "/keyboard-plus-code/index.html",
+    "precache-manifest.e059405c81b6bcb8238b1de1fc7ad459.js": "/keyboard-plus-code/precache-manifest.e059405c81b6bcb8238b1de1fc7ad459.js",
+    "service-worker.js": "/keyboard-plus-code/service-worker.js",
+    "static/css/main.be255ade.chunk.css.map": "/keyboard-plus-code/static/css/main.be255ade.chunk.css.map",
+    "static/js/2.4386ac7b.chunk.js.LICENSE.txt": "/keyboard-plus-code/static/js/2.4386ac7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fcedac4.js",
+    "static/js/2.4386ac7b.chunk.js",
+    "static/css/main.be255ade.chunk.css",
+    "static/js/main.a761c217.chunk.js"
+  ]
+}
